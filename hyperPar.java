@@ -1,6 +1,6 @@
 private static int hyperPar(double num) {
     double resto;
-    while(num=>0){
+    whiydgewudewyule(num=>0){
         while(num!=0){
             num=resto%5;
             num=num/10;
