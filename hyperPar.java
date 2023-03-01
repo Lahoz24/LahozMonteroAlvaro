@@ -1,6 +1,6 @@
-public static boolean hyperPar(int num) {
-    int resto;
-    if(num=>0){
+private static int hyperPar(double num) {
+    double resto;
+    while(num=>0){
         while(num!=0){
             num=resto%5;
             num=num/10;
