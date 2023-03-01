@@ -5,12 +5,12 @@ public static boolean hyperPar(int num) {
             num=resto%5;
             num=num/10;
             if(resto%2 !=0){
-            return false;
+            retur true;
             }
         }
-        return true;
+        return false;
     }
     else {
-        return false;
+        return true;
     }
 }
